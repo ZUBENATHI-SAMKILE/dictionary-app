@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 📘 React Dictionary App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple **English Dictionary App** built with **React** that allows users to:
 
-## Available Scripts
+- Search for word meanings using the [Free Dictionary API](https://dictionaryapi.dev/).
+- Listen to word pronunciation audio.
+- View suggested words for quick lookup.
+- Save and manage favorite words in **localStorage** for easy access.
 
-In the project directory, you can run:
+- Live Demo
+👉 Click here to try the calculator
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔎 Search for word definitions.  
+- 🎧 Play audio pronunciation of words.  
+- ⭐ Add or remove words from favorites (saved in localStorage).  
+- 💡 Suggested words to try when no search is made.  
+- ❌ Error handling when a word is not found.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
 
-### `npm test`
+- [React](https://reactjs.org/) – Frontend library  
+- [Dictionary API](https://dictionaryapi.dev/) – Free dictionary API for word definitions  
+- LocalStorage – To persist favorite words
+- React
+- HTML & CSS
+- JavaScript 
+- GitHub Pages (for deployment)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📌 Future Improvements
 
-### `npm run build`
+Add support for multiple definitions and examples.
+Display word type (noun, verb, adjective, etc.).
+Improve UI styling with better design.
+Allow exporting favorites list.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📄 License
+This project is open-source and available under the MIT License.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🧑‍💻 Author
+Created with 💙 by Zubenathi Samkile
