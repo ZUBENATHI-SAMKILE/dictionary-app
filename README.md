@@ -8,7 +8,7 @@ A simple **English Dictionary App** built with **React** that allows users to:
 - Save and manage favorite words in **localStorage** for easy access.
 
 - Live Demo
-👉 Click here to try the calculator
+🖼️ Demo Live URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
 
 ## Features
 
@@ -29,11 +29,10 @@ A simple **English Dictionary App** built with **React** that allows users to:
 - GitHub Pages (for deployment)
 
 📌 Future Improvements
-
-Add support for multiple definitions and examples.
-Display word type (noun, verb, adjective, etc.).
-Improve UI styling with better design.
-Allow exporting favorites list.
+- Add support for multiple definitions and examples.
+- Display word type (noun, verb, adjective, etc.).
+- Improve UI styling with better design.
+- Allow exporting favorites list.
 
 📄 License
 This project is open-source and available under the MIT License.
