@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import image from './image.png';
 
 const Dictionary = () => {
 
