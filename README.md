@@ -1,5 +1,4 @@
 # 📘 React Dictionary App
-
 A simple **English Dictionary App** built with **React** that allows users to:
 
 - Search for word meanings using the [Free Dictionary API](https://dictionaryapi.dev/).
@@ -8,8 +7,7 @@ A simple **English Dictionary App** built with **React** that allows users to:
 - Save and manage favorite words in **localStorage** for easy access.
 
 - Live Demo
-🖼️ Demo Live URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
-
+- Demo Live URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
 ## Features
 
 - 🔎 Search for word definitions.  
