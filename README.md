@@ -10,23 +10,23 @@ A simple **English Dictionary App** built with **React** that allows users to:
 - Demo Live URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
 ## Features
 
-- 🔎 Search for word definitions.  
-- 🎧 Play audio pronunciation of words.  
-- ⭐ Add or remove words from favorites (saved in localStorage).  
-- 💡 Suggested words to try when no search is made.  
-- ❌ Error handling when a word is not found.
+-Search for word definitions.
+-Play audio pronunciation of words.  
+-Add or remove words from favorites (saved in localStorage).  
+-Suggested words to try when no search is made.  
+-Error handling when a word is not found.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- [React](https://reactjs.org/) – Frontend library  
-- [Dictionary API](https://dictionaryapi.dev/) – Free dictionary API for word definitions  
-- LocalStorage – To persist favorite words
-- React
-- HTML & CSS
-- JavaScript 
-- GitHub Pages (for deployment)
+-[React](https://reactjs.org/) – Frontend library  
+-[Dictionary API](https://dictionaryapi.dev/) – Free dictionary API for word definitions  
+-LocalStorage – To persist favorite words
+-React
+-HTML & CSS
+-JavaScript 
+-GitHub Pages (for deployment)
 
-📌 Future Improvements
+-Future Improvements
 - Add support for multiple definitions and examples.
 - Display word type (noun, verb, adjective, etc.).
 - Improve UI styling with better design.
