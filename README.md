@@ -6,8 +6,7 @@ A simple **English Dictionary App** built with **React** that allows users to:
 - View suggested words for quick lookup.
 - Save and manage favorite words in **localStorage** for easy access.
 
-- Live Demo
-- Demo Live URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
+Live Demo URL: https://ZUBENATHI-SAMKILE.github.io/dictionary-app
 ## Features
 
 -Search for word definitions.
