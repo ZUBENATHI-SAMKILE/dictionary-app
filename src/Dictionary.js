@@ -94,8 +94,8 @@ const Dictionary = () => {
                 )}
 
                <div>
-                  {!favorites.includes(result.word) ? ( <button onClick={addFavorite}> Add to Favorites </button> ) :  ( <button onClick={() => removeFavorite(result.word)} > Remove from Favorites </button> 
-                   )}
+                  {!favorites.includes(result.word) ? (< button className="fav_btn add" onClick={addFavorite} aria-label={`Add ${result.word} to favorites`}> Add to Favorites </button> ) : (
+                   <button className="fav_btn remove" onClick={() => removeFavorite(result.word)} aria-label={`Remove ${result.word} from favorites`} > Remove from Favorites </button> )}
                </div>
            </div>
             )}
