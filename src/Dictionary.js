@@ -102,7 +102,7 @@ const Dictionary = () => {
 
             {favorites.length > 0 && (
             <div>
-              <h2 className='heading'> Favorites</h2>
+              <h2 className='heading'> Your Favorites</h2>
               <div>
                   {favorites.map((w) => (
                   <button className='block_word'

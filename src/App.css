@@ -158,46 +158,18 @@ body {
     flex-direction: column;
     gap: 1rem;
   }
-
   .container {
     width: 100%;
     padding: 1.5rem;
   }
-
   .heading {
     font-size: 1.8rem;
-  }
-<<<<<<< HEAD
-  .container{
-    width: 90%;
-    height: fit-content;
-    border: 0.4rem solid #0312dd;
-    padding: 17px;
-    padding-top: 0;
-  }
-  .block_word{
-    width: 90%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #74ebd5;
-    
   }
   .heading{
     margin: 0.5rem;
   }
-  .error{
-=======
-
   .definition {
->>>>>>> c8c6f90de2570499e009a57ef32c19a5e2b8a911
     font-size: 1rem;
   }
-<<<<<<< HEAD
-  .definition{
-    font-size: 20px;
-  }
 }
-=======
-}
->>>>>>> c8c6f90de2570499e009a57ef32c19a5e2b8a911
+
